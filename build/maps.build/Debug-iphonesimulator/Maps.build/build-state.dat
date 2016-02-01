@@ -1,0 +1,911 @@
+TMaps
+v7
+r0
+t303121122.607993
+cCheck dependencies
+cProcessInfoPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Info.plist" Maps-Info.plist
+cCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib
+cCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MapView.xib
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/stations.xml" stations.xml
+cCopyPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Settings.plist" Settings.plist
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A16.png" A16.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A15.png" A15.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A14.png" A14.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A13.png" A13.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A12.png" A12.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A11.png" A11.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A10.png" A10.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A9.png" A9.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A8.png" A8.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A7.png" A7.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A5.png" A5.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A4.png" A4.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A3.png" A3.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A2.png" A2.png
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A1.png" A1.png
+cCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.xib
+cCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.xib
+cCopyPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/StationViewSections.plist" StationViewSections.plist
+cCopyPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/WindDirections.plist" WindDirections.plist
+cCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Favourites.xib
+cCpResource "build/Debug-iphonesimulator/Orai keliuose.app/icon.png" ../../../../../Downloads/icon.png
+cProcessPCH /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch.gch Maps_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Weather.mom" /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/main.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/MapsAppDelegate.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/FirstViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/WeatherController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/StationParser.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/StationAnnotation.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/ItemParser.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/Watafa.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/TestViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/ItemInfoCellView.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/FavouritesViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose" normal i386
+cGenerateDSYMFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app.dSYM" "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose"
+cTouch "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C4D5F430000000000000132
+t1280139075
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004BFDFEB400000000001CFA90
+t1274937012
+s1899152
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BFDFEA8000000000000046B
+t1274937000
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04724700000000000002FE
+t1275359815
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C04725B0000000000160350
+t1275359835
+s1442640
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/../../../../../Downloads/icon.png
+c000000004C3C5C77000000000000478D
+t1279024247
+s18317
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A1.png
+c000000004C16319E0000000000000362
+t1276522910
+s866
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A10.png
+c000000004C1648EA00000000000004A0
+t1276528874
+s1184
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A11.png
+c000000004C1648F700000000000003B2
+t1276528887
+s946
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A12.png
+c000000004C16490F0000000000000489
+t1276528911
+s1161
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A13.png
+c000000004C16492E00000000000004E9
+t1276528942
+s1257
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A14.png
+c000000004C16493B000000000000040F
+t1276528955
+s1039
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A15.png
+c000000004C1649450000000000000470
+t1276528965
+s1136
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A16.png
+c000000004C1649510000000000000515
+t1276528977
+s1301
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A2.png
+c000000004C16489A000000000000042C
+t1276528794
+s1068
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A3.png
+c000000004C1648A400000000000004A0
+t1276528804
+s1184
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A4.png
+c000000004C1648AE00000000000003C1
+t1276528814
+s961
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A5.png
+c000000004C1648B70000000000000423
+t1276528823
+s1059
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A7.png
+c000000004C1648C000000000000003CF
+t1276528832
+s975
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A8.png
+c000000004C1648D300000000000004A0
+t1276528851
+s1184
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A9.png
+c000000004C1648E00000000000000486
+t1276528864
+s1158
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.h
+c000000004C3B36C10000000000000236
+t1278949057
+s566
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"TestViewController.h"
+i"MapsAppDelegate.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m
+c000000004C3BFED40000000000001636
+t1279000276
+s5686
+i"FavouritesViewController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.h
+c000000004C3B710A00000000000004B1
+t1278963978
+s1201
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+i"MapsAppDelegate.h"
+i"StationParser.h"
+i"ItemParser.h"
+i"StationAnnotation.h"
+i"TestViewController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m
+c000000004C3B710A0000000000002982
+t1278963978
+s10626
+i"FirstViewController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.h
+c000000004C2070B700000000000000E4
+t1277194423
+s228
+i<UIKit/UIKit.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m
+c000000004C2083BD0000000000000393
+t1277199293
+s915
+i"ItemInfoCellView.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.h
+c000000004C1B4F2600000000000004AF
+t1276858150
+s1199
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m
+c000000004C3BF9F80000000000002233
+t1278999032
+s8755
+i"ItemParser.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.h
+c000000004C2A009B00000000000004C7
+t1277821083
+s1223
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"FavouritesViewController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.m
+c000000004C3B3518000000000000199D
+t1278948632
+s6557
+i"MapsAppDelegate.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.h
+c000000004C1665B7000000000000022E
+t1276536247
+s558
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.m
+c000000004C208E6F000000000000051B
+t1277202031
+s1307
+i"StationAnnotation.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.h
+c000000004C16636D00000000000003FE
+t1276535661
+s1022
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m
+c000000004C3BF9E10000000000001948
+t1278999009
+s6472
+i"StationParser.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.h
+c000000004C440A4100000000000005D5
+t1279527489
+s1493
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"ItemInfoCellView.h"
+i"ItemParser.h"
+i"MapsAppDelegate.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m
+c000000004C44113B0000000000002B5F
+t1279529275
+s11103
+i"TestViewController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.xib
+c000000004C3B83730000000000002658
+t1278968691
+s9816
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.h
+c000000004C1F6D0F00000000000000CD
+t1277127951
+s205
+i<UIKit/UIKit.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.m
+c000000004C1F6D0F000000000000054F
+t1277127951
+s1359
+i"Watafa.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.xib
+c000000004C1F6D0F0000000000001701
+t1277127951
+s5889
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.h
+c000000004C0CA4F1000000000000013C
+t1275897073
+s316
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i"MapsAppDelegate.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.m
+c000000004C0CA74F00000000000003B6
+t1275897679
+s950
+i"WeatherController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Favourites.xib
+c000000004C2AFCC6000000000000295C
+t1277885638
+s10588
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib
+c000000004C2A00EC0000000000003134
+t1277821164
+s12596
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MapView.xib
+c000000004C3BFED400000000000034C9
+t1279000276
+s13513
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Maps_Prefix.pch
+c000000004C0553C500000000000000B1
+t1275417541
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Settings.plist
+c000000004C0CE6E300000000000000DA
+t1275913955
+s218
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/StationViewSections.plist
+c000000004C3AE77400000000000002DB
+t1278928756
+s731
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel
+c000000004C3AFBB90000000000000088
+t1278933945
+s136
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/WindDirections.plist
+c000000004C2085AD000000000000021D
+t1277199789
+s541
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app
+t1281428322
+s1156
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app.dSYM
+t1281428268
+s102
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A1.png
+t1279542885
+s866
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A10.png
+t1279542885
+s1184
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A11.png
+t1279542885
+s946
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A12.png
+t1279542885
+s1161
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A13.png
+t1279542885
+s1257
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A14.png
+t1279542885
+s1039
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A15.png
+t1279542885
+s1136
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A16.png
+t1279542885
+s1301
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A2.png
+t1279542885
+s1068
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A3.png
+t1279542885
+s1184
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A4.png
+t1279542885
+s961
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A5.png
+t1279542885
+s1059
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A7.png
+t1279542885
+s975
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A8.png
+t1279542885
+s1184
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/A9.png
+t1279542885
+s1158
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Favourites.nib
+t1281428255
+s2307
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Info.plist
+t1281428283
+s606
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/MainWindow.nib
+t1281428251
+s3253
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/MapView.nib
+t1281428251
+s2300
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose
+t1281428268
+s103868
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/PkgInfo
+t1281428283
+s8
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Settings.plist
+t1279542885
+s56
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/StationViewSections.plist
+t1279542887
+s288
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/TestViewController.nib
+t1281428253
+s1913
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Watafa.nib
+t1281428253
+s1231
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Weather.mom
+t1281428264
+s3728
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/WindDirections.plist
+t1279542887
+s243
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/icon.png
+t1281428322
+s18317
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/stations.xml
+t1279542885
+s1979
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/FavouritesViewController.o
+t1281428266
+s68540
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/FirstViewController.o
+t1281428265
+s84260
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/ItemInfoCellView.o
+t1281428266
+s36504
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/ItemParser.o
+t1281428266
+s48864
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/MapsAppDelegate.o
+t1281428265
+s63740
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/Orai keliuose.LinkFileList
+c000000004C44466300000000000005C7
+t1279542883
+s1479
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/StationAnnotation.o
+t1281428266
+s17080
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/StationParser.o
+t1281428265
+s42932
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/TestViewController.o
+t1281428266
+s99068
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/Watafa.o
+t1281428266
+s34096
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/WeatherController.o
+t1281428265
+s46740
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/main.o
+t1281428265
+s6320
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/main.m
+c000000004C0553C50000000000000162
+t1275417541
+s354
+i<UIKit/UIKit.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/stations.xml
+c000000004C16225F00000000000007BB
+t1276519007
+s1979
+
+N/var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch.gch
+t1281428263
+s15232016
+
+NMaps-Info.plist
+c000000004C610B3A0000000000000384
+t1281428282
+s900
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303121122#303121122#0(0"0(0#1#0"8641957984#0"0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/FavouritesViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121066.434325
+e303121066.760094
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/FavouritesViewController.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m: In function '-[FavouritesViewController viewWillAppear:]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m:53: warning: format not a string literal and no format arguments
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m:54: warning: format not a string literal and no format arguments
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m: In function '-[FavouritesViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m:113: warning: unused variable 'arr'
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m: In function '-[FavouritesViewController tableView:cellForRowAtIndexPath:]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m:145: warning: local declaration of 'tableView' hides instance variable
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m: In function '-[FavouritesViewController tableView:numberOfRowsInSection:]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m:188: warning: control reaches end of non-void function
+lSLF07#2@89"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m303121066#303121066#0(1323"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m: In function '-[FavouritesViewController viewWillAppear:]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m:53: warning: format not a string literal and no format arguments/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m:54: warning: format not a string literal and no format arguments/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m: In function '-[FavouritesViewController tableView:didSelectRowAtIndexPath:]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m:113: warning: unused variable 'arr'/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m: In function '-[FavouritesViewController tableView:cellForRowAtIndexPath:]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m:145: warning: local declaration of 'tableView' hides instance variable/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m: In function '-[FavouritesViewController tableView:numberOfRowsInSection:]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m:188: warning: control reaches end of non-void function5(22@51"Format not a string literal and no format arguments303121066#142#147#0(6@81"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m300693076#53#0#53#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments303121066#289#147#0(6@81"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m300693076#54#0#54#0#51"format not a string literal and no format arguments0(22@21"Unused variable 'arr'303121066#597#118#0(6@81"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m300693076#113#0#113#0#19"unused variable '*'0(22@56"Local declaration of 'tableView' hides instance variable303121066#874#153#0(6@81"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m300693076#145#0#145#0#0"0(22@40"Control reaches end of non-void function303121066#1186#137#0(6@81"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m300693076#188#0#188#0#40"control reaches end of non-void function0(0#0#81"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m8638049376#2021"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/FavouritesViewController.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/FirstViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121065.270032
+e303121065.763997
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/FirstViewController.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m: In function '-[FirstViewController annotationViewClick:]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m:45: warning: 'UIView' may not respond to '-annotation'
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m:45: warning: (Messages without a matching method signature
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m:45: warning: will be assumed to return 'id' and accept
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m:45: warning: '...' as arguments.)
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m: In function '-[FirstViewController annotationClick:]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m:54: warning: 'UIView' may not respond to '-annotation'
+lSLF07#2@84"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m303121065#303121065#0(913"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m: In function '-[FirstViewController annotationViewClick:]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m:45: warning: 'UIView' may not respond to '-annotation'/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m:45: warning: (Messages without a matching method signature/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m:45: warning: will be assumed to return 'id' and accept/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m:45: warning: '...' as arguments.)/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m: In function '-[FirstViewController annotationClick:]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m:54: warning: 'UIView' may not respond to '-annotation'3(22@41"'UIView' may not respond to '-annotation'303121065#137#132#0(6@76"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m300656778#45#0#45#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)303121065#269#136#0(6@76"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m300656778#45#0#45#0#0"0(22@41"'UIView' may not respond to '-annotation'303121065#781#132#0(6@76"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m300656778#54#0#54#0#26"'*' may not respond to '*'0(0#0#76"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m8641552128#2011"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/ItemInfoCellView.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121066.257638
+e303121066.424907
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/ItemInfoCellView.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m: In function '-[ItemInfoCellView initWithFrame:reuseIdentifier:]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m:15: warning: 'initWithFrame:reuseIdentifier:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:189)
+lSLF07#2@81"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m303121066#303121066#0(445"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m: In function '-[ItemInfoCellView initWithFrame:reuseIdentifier:]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m:15: warning: 'initWithFrame:reuseIdentifier:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:189)1(22@216"'initWithFrame:reuseIdentifier:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:189)303121066#141#304#0(6@73"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m298892093#15#0#15#0#33"'*' is deprecated (declared at *)0(0#0#73"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m8638591904#2005"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/ItemInfoCellView.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/ItemParser.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121065.823327
+e303121066.230887
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/ItemParser.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m: In function '-[ItemParser fetchAndParseRss]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m:74: warning: format not a string literal and no format arguments
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m:84: warning: class 'ItemParser' does not implement the 'NSXMLParserDelegate' protocol
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m: In function '-[ItemParser setXid:]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m:137: warning: format not a string literal and no format arguments
+lSLF07#2@75"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m303121065#303121066#0(642"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m: In function '-[ItemParser fetchAndParseRss]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m:74: warning: format not a string literal and no format arguments/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m:84: warning: class 'ItemParser' does not implement the 'NSXMLParserDelegate' protocol/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m: In function '-[ItemParser setXid:]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m:137: warning: format not a string literal and no format arguments3(22@51"Format not a string literal and no format arguments303121065#115#133#0(6@67"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m300691832#74#0#74#0#51"format not a string literal and no format arguments0(22@72"Class 'ItemParser' does not implement the 'NSXMLParserDelegate' protocol303121065#248#154#0(6@67"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m300691832#84#0#84#0#45"class '*' does not implement the '*' protocol0(22@51"Format not a string literal and no format arguments303121065#508#134#0(6@67"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m300691832#137#0#137#0#51"format not a string literal and no format arguments0(0#0#67"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m8639527584#1993"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/ItemParser.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/MapsAppDelegate.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121064.824709
+e303121065.366845
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/MapsAppDelegate.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.m303121064#303121065#0(0"0(0#0#72"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.m8639136288#2003"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/MapsAppDelegate.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/StationAnnotation.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121065.764182
+e303121066.141272
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/StationAnnotation.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.m303121065#303121066#0(0"0(0#0#74"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.m8642053024#2007"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/StationAnnotation.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/StationParser.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121065.492124
+e303121065.823214
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/StationParser.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m: In function '-[StationParser fetchAndParseRss]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m:79: warning: class 'StationParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@78"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m303121065#303121065#0(281"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m: In function '-[StationParser fetchAndParseRss]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m:79: warning: class 'StationParser' does not implement the 'NSXMLParserDelegate' protocol1(22@75"Class 'StationParser' does not implement the 'NSXMLParserDelegate' protocol303121065#121#160#0(6@70"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m300691809#79#0#79#0#45"class '*' does not implement the '*' protocol0(0#0#70"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m8601772928#1999"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/StationParser.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/TestViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121066.231015
+e303121066.789954
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/TestViewController.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m: In function '-[TestViewController mark:]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m:59: warning: format not a string literal and no format arguments
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m: In function '-[TestViewController viewDidLoad]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m:110: warning: format not a string literal and no format arguments
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m: In function '-[TestViewController tableView:cellForRowAtIndexPath:]':
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m:178: warning: local declaration of 'tableView' hides instance variable
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m:180: warning: local declaration of 'tableView' hides instance variable
+lSLF07#2@83"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m303121066#303121066#0(970"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m: In function '-[TestViewController mark:]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m:59: warning: format not a string literal and no format arguments/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m: In function '-[TestViewController viewDidLoad]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m:110: warning: format not a string literal and no format arguments/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m: In function '-[TestViewController tableView:cellForRowAtIndexPath:]':/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m:178: warning: local declaration of 'tableView' hides instance variable/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m:180: warning: local declaration of 'tableView' hides instance variable4(22@51"Format not a string literal and no format arguments303121066#120#141#0(6@75"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m301222075#59#0#59#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments303121066#387#142#0(6@75"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m301222075#110#0#110#0#51"format not a string literal and no format arguments0(22@56"Local declaration of 'tableView' hides instance variable303121066#676#147#0(6@75"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m301222075#178#0#178#0#0"0(22@56"Local declaration of 'tableView' hides instance variable303121066#823#147#0(6@75"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m301222075#180#0#180#0#0"0(0#0#75"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m8630921248#2009"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/TestViewController.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/Watafa.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121066.141391
+e303121066.257521
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/Watafa.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.m303121066#303121066#0(0"0(0#0#63"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.m8638672160#1985"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/Watafa.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/WeatherController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121065.366958
+e303121065.492018
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/WeatherController.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.m303121065#303121065#0(0"0(0#0#74"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.m8640017056#2007"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/WeatherController.o0#
+
+CCompileC build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/main.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121064.036748
+e303121065.269924
+r1
+xCompileC
+xbuild/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/main.o
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/main.m303121064#303121065#0(0"0(0#0#53"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/main.m8642967584#1973"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -include /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/main.m -o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.xib
+s303121051.996382
+e303121053.881972
+r1
+xCompileXIB
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.xib
+lSLF07#2@41"CompileXIB Classes/TestViewController.xib303121051#303121053#0(0"0(0#0#77"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.xib8644653120#626"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/TestViewController.nib" /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.xib
+s303121051.978796
+e303121053.771164
+r1
+xCompileXIB
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.xib
+lSLF07#2@29"CompileXIB Classes/Watafa.xib303121051#303121053#0(0"0(0#0#65"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.xib8638483680#602"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Watafa.nib" /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Favourites.xib
+s303121053.771437
+e303121055.113215
+r1
+xCompileXIB
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Favourites.xib
+lSLF07#2@25"CompileXIB Favourites.xib303121053#303121055#0(0"0(0#0#61"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Favourites.xib8634312192#602"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Favourites.nib" /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Favourites.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib
+s303121042.737692
+e303121051.977510
+r1
+xCompileXIB
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib:141: warning: This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.
+lSLF07#2@25"CompileXIB MainWindow.xib303121042#303121051#0(228"/* com.apple.ibtool.document.warnings *//Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib:141: warning: This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.1(22@110"This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.303121051#18446744073709551615#0#0(6@61"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib299513964#141#0#141#0#0"0(0#0#61"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib8638974048#602"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/MainWindow.nib" /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MapView.xib
+s303121042.779731
+e303121051.977884
+r1
+xCompileXIB
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MapView.xib
+lSLF07#2@22"CompileXIB MapView.xib303121042#303121051#0(0"0(0#0#58"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MapView.xib8638722112#596"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/MapView.nib" /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MapView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCopyPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Settings.plist" Settings.plist
+r0
+
+CCopyPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/StationViewSections.plist" StationViewSections.plist
+r0
+
+CCopyPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/WindDirections.plist" WindDirections.plist
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A1.png" A1.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A10.png" A10.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A11.png" A11.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A12.png" A12.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A13.png" A13.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A14.png" A14.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A15.png" A15.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A16.png" A16.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A2.png" A2.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A3.png" A3.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A4.png" A4.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A5.png" A5.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A7.png" A7.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A8.png" A8.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/A9.png" A9.png
+r0
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/icon.png" ../../../../../Downloads/icon.png
+s303121122.546876
+e303121122.553782
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Orai keliuose.app/icon.png
+x../../../../../Downloads/icon.png
+lSLF07#2@38"Copy ../../../../../Downloads/icon.png303121122#303121122#0(0"0(0#0#80"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/../../../../../Downloads/icon.png8644416384#509"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/../../../../../Downloads/icon.png "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Orai keliuose.app/stations.xml" stations.xml
+r0
+
+CDataModelCompile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Weather.mom" /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel
+s303121064.035426
+e303121064.824308
+r1
+xDataModelCompile
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Weather.mom
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel
+o/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel:Item.station: warning: Item.station -- relationship has -No Action- for delete rule, this is an advanced setting 
+lSLF07#2@74"Compile /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel303121064#303121064#0(181"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel:Item.station: warning: Item.station -- relationship has -No Action- for delete rule, this is an advanced setting 1(22@90"Item.station -- relationship has -No Action- for delete rule, this is an advanced setting 303121064#18446744073709551615#0#0(6@66"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel300626745#0#0#0#0#0"0(0#0#66"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel8635770112#416"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Weather.mom"0#
+
+CGenerateDSYMFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app.dSYM" "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose"
+s303121068.498977
+e303121068.963173
+r1
+xGenerateDSYMFile
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app.dSYM
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose
+lSLF07#2@131"GenerateDSYMFile "build/Debug-iphonesimulator/Orai keliuose.app.dSYM" "build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose"303121068#303121068#0(0"0(0#0#106"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose8640088352#429"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose" -o "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app.dSYM"0#
+
+CLd "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose" normal i386
+s303121066.790062
+e303121068.498776
+r1
+xLd
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose
+xnormal
+xi386
+lSLF07#2@111"Link /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose303121066#303121068#0(0"0(0#0#0"8638384960#994"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -filelist "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Objects-normal/i386/Orai keliuose.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework MapKit -o "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Orai keliuose"0#
+
+CProcessInfoPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Info.plist" Maps-Info.plist
+s303121083.404022
+e303121083.434954
+r1
+xProcessInfoPlistFile
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Info.plist
+xMaps-Info.plist
+lSLF07#2@23"Process Maps-Info.plist303121083#303121083#0(0"0(0#0#62"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Maps-Info.plist8642743648#516"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Maps-Info.plist -genpkginfo "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app/Info.plist"0#
+
+CProcessPCH /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch.gch Maps_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303121055.113358
+e303121064.035166
+r1
+xProcessPCH
+x/var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch.gch
+xMaps_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Maps_Prefix.pch303121055#303121064#0(0"0(0#0#62"/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Maps_Prefix.pch8638620352#1860"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-generated-files.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-own-target-headers.hmap" "-I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-all-target-headers.hmap" -iquote "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/Orai keliuose-project-headers.hmap" -F/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/include -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources/i386 -I/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphonesimulator/Maps.build/DerivedSources -c /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Maps_Prefix.pch -o /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ghxqaxxgzjdetegvaamqyloveblt/Maps_Prefix.pch.gch0#
+
+CTouch "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app"
+s303121122.555634
+e303121122.607851
+r1
+xTouch
+x/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app
+lSLF07#2@98"Touch /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app303121122#303121122#0(0"0(0#0#0"8639508448#302"    cd /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphonesimulator/Orai keliuose.app"0#
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1Krituliai</key>
+	<array>
+		<string>kt</string>
+		<string>Krituliai</string>
+		<string>visibility</string>
+		<string>Matomumas</string>
+		<string>Favoritas</string>
+	</array>
+	<key>0Temperatūra</key>
+	<array>
+		<string>airTemp</string>
+		<string>Oro</string>
+		<string>roadTemp</string>
+		<string>Kelio dangos</string>
+	</array>
+	<key>2Vėjas</key>
+	<array>
+		<string>windD</string>
+		<string>Kryptis</string>
+		<string>windA</string>
+		<string>Vėjo greitis</string>
+		<string>windM</string>
+		<string>Vėjo gūsiai</string>
+	</array>
+</dict>
+</plist>

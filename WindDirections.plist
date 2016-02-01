@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>V</key>
+	<string>Vakarų</string>
+	<key>Š</key>
+	<string>Šiaurės</string>
+	<key>P</key>
+	<string>Pietų</string>
+	<key>R</key>
+	<string>Rytų</string>
+	<key>ŠV</key>
+	<string>Šiaurės vakarų</string>
+	<key>PV</key>
+	<string>Pietvakarių</string>
+	<key>ŠR</key>
+	<string>Šiaurės rytų</string>
+	<key>PR</key>
+	<string>Pietryčių</string>
+</dict>
+</plist>

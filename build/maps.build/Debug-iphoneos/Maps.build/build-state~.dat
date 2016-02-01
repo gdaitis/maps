@@ -1,0 +1,889 @@
+TMaps
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004C1BB8220000000000000110
+t1276885026
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004C06E99F00000000000001E5
+t1275521439
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C005A8900000000002B9960
+t1275091593
+s2857312
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C005A75000000000000046B
+t1275091573
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C005A1C00000000003B4B70
+t1275091484
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C005A45000000000036A640
+t1275091525
+s3581504
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C005A310000000000001355
+t1275091505
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C006692000000000000017D
+t1275094674
+s381
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C0066CB000000000025D5C0
+t1275094731
+s2479552
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C00642C000000000000098F
+t1275094060
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0064A60000000002703220
+t1275094182
+s40907296
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C4E8CC20000000000000132
+t1280216258
+s306
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004BFE083F00000000002F6980
+t1274939455
+s3107200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004BFE082E000000000000046B
+t1274939438
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004C04800D00000000000002FE
+t1275363341
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004C0480330000000000267F90
+t1275363379
+s2523024
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/../../../../../Downloads/icon.png
+c000000004C3C5C77000000000000478D
+t1279024247
+s18317
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/../../../../../Downloads/icon2.png
+c000000004C3C4A66000000000000521D
+t1279019622
+s21021
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/../../../../../Downloads/icon3.png
+c000000004C3C51DA0000000000004241
+t1279021530
+s16961
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/../../../../button_grey_dark.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A1.png
+c000000004C16319E0000000000000362
+t1276522910
+s866
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A10.png
+c000000004C1648EA00000000000004A0
+t1276528874
+s1184
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A11.png
+c000000004C1648F700000000000003B2
+t1276528887
+s946
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A12.png
+c000000004C16490F0000000000000489
+t1276528911
+s1161
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A13.png
+c000000004C16492E00000000000004E9
+t1276528942
+s1257
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A14.png
+c000000004C16493B000000000000040F
+t1276528955
+s1039
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A15.png
+c000000004C1649450000000000000470
+t1276528965
+s1136
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A16.png
+c000000004C1649510000000000000515
+t1276528977
+s1301
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A2.png
+c000000004C16489A000000000000042C
+t1276528794
+s1068
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A3.png
+c000000004C1648A400000000000004A0
+t1276528804
+s1184
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A4.png
+c000000004C1648AE00000000000003C1
+t1276528814
+s961
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A5.png
+c000000004C1648B70000000000000423
+t1276528823
+s1059
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A7.png
+c000000004C1648C000000000000003CF
+t1276528832
+s975
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A8.png
+c000000004C1648D300000000000004A0
+t1276528851
+s1184
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/A9.png
+c000000004C1648E00000000000000486
+t1276528864
+s1158
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.h
+c000000004C3B36C10000000000000236
+t1278949057
+s566
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"TestViewController.h"
+i"MapsAppDelegate.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m
+c000000004C3BFED40000000000001636
+t1279000276
+s5686
+i"FavouritesViewController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.h
+c000000004C3B710A00000000000004B1
+t1278963978
+s1201
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i<MapKit/MapKit.h>
+i"MapsAppDelegate.h"
+i"StationParser.h"
+i"ItemParser.h"
+i"StationAnnotation.h"
+i"TestViewController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m
+c000000004C3B710A0000000000002982
+t1278963978
+s10626
+i"FirstViewController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.h
+c000000004C2070B700000000000000E4
+t1277194423
+s228
+i<UIKit/UIKit.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m
+c000000004C2083BD0000000000000393
+t1277199293
+s915
+i"ItemInfoCellView.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.h
+c000000004C1B4F2600000000000004AF
+t1276858150
+s1199
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m
+c000000004C3BF9F80000000000002233
+t1278999032
+s8755
+i"ItemParser.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.h
+c000000004C2A009B00000000000004C7
+t1277821083
+s1223
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"FavouritesViewController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.m
+c000000004C3B3518000000000000199D
+t1278948632
+s6557
+i"MapsAppDelegate.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.h
+c000000004C1665B7000000000000022E
+t1276536247
+s558
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.m
+c000000004C208E6F000000000000051B
+t1277202031
+s1307
+i"StationAnnotation.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.h
+c000000004C16636D00000000000003FE
+t1276535661
+s1022
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m
+c000000004C3BF9E10000000000001948
+t1278999009
+s6472
+i"StationParser.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.h
+c000000004C440A4100000000000005D5
+t1279527489
+s1493
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"ItemInfoCellView.h"
+i"ItemParser.h"
+i"MapsAppDelegate.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m
+c000000004C44113B0000000000002B5F
+t1279529275
+s11103
+i"TestViewController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.xib
+c000000004C3B83730000000000002658
+t1278968691
+s9816
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.h
+c000000004C1F6D0F00000000000000CD
+t1277127951
+s205
+i<UIKit/UIKit.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.m
+c000000004C1F6D0F000000000000054F
+t1277127951
+s1359
+i"Watafa.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.xib
+c000000004C1F6D0F0000000000001701
+t1277127951
+s5889
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.h
+c000000004C0CA4F1000000000000013C
+t1275897073
+s316
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i"MapsAppDelegate.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.m
+c000000004C0CA74F00000000000003B6
+t1275897679
+s950
+i"WeatherController.h"
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Favourites.xib
+c000000004C2AFCC6000000000000295C
+t1277885638
+s10588
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib
+c000000004C2A00EC0000000000003134
+t1277821164
+s12596
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MapView.xib
+c000000004C3BFED400000000000034C9
+t1279000276
+s13513
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Maps_Prefix.pch
+c000000004C0553C500000000000000B1
+t1275417541
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Settings.plist
+c000000004C0CE6E300000000000000DA
+t1275913955
+s218
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/StationViewSections.plist
+c000000004C3AE77400000000000002DB
+t1278928756
+s731
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel
+c000000004C3AFBB90000000000000088
+t1278933945
+s136
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/WindDirections.plist
+c000000004C2085AD000000000000021D
+t1277199789
+s541
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app.dSYM
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A1.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A10.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A11.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A12.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A13.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A14.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A15.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A16.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A2.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A3.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A4.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A5.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A7.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A8.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A9.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Favourites.nib
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Info.plist
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/MainWindow.nib
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/MapView.nib
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Orai keliuose
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/PkgInfo
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/ResourceRules.plist
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Settings.plist
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/StationViewSections.plist
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/TestViewController.nib
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Watafa.nib
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Weather.mom
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/WindDirections.plist
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/button_grey_dark.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/icon.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/icon2.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/icon3.png
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/stations.xml
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/FavouritesViewController.o
+t1279022175
+s64380
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/FirstViewController.o
+t1279022173
+s79936
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/ItemInfoCellView.o
+t1278682036
+s18456
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/ItemParser.o
+t1279022174
+s50892
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/MapsAppDelegate.o
+t1279022172
+s59296
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/Orai keliuose
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/Orai keliuose.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/StationAnnotation.o
+t1278682035
+s18648
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/StationParser.o
+t1279022173
+s44200
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/TestViewController.o
+t1279022175
+s94400
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/Watafa.o
+t1278682035
+s29096
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/WeatherController.o
+t1279022173
+s40296
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/main.o
+t1278682035
+s6560
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/FavouritesViewController.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/FirstViewController.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/ItemInfoCellView.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/ItemParser.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/MapsAppDelegate.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/Orai keliuose
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/Orai keliuose.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/StationAnnotation.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/StationParser.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/TestViewController.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/Watafa.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/WeatherController.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/main.m
+c000000004C0553C50000000000000162
+t1275417541
+s354
+i<UIKit/UIKit.h>
+
+N/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/stations.xml
+c000000004C16225F00000000000007BB
+t1276519007
+s1979
+
+N/var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ajssvzgtrxshfydjvbdbmzgllilv/Maps_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-dwmzmenlsijxfadccswiadzhnqnh/Maps_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-eclbfzspztzhjkghqkotropfwvho/Maps_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ezedcdroioaqtrfezjzwssfisubm/Maps_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-fyiouwwmuhiukwcdksseggaqewpp/Maps_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-gormkcvkjdvsfigqyiovptxawnzi/Maps_Prefix.pch.gch
+t2
+s0
+
+NMaps-Info.plist
+c000000004C5684CE000000000000038C
+t1280738510
+s908
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302431539#302431539#0(130"[BEROR]Code Signing Identity 'iPhone Developer' does not match any valid, non-expired, code-signing certificate in your keychain.1(4@122"Code Signing Identity 'iPhone Developer' does not match any valid, non-expired, code-signing certificate in your keychain.302431539#18446744073709551615#0#0(1@0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/FavouritesViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/FirstViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/ItemInfoCellView.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/ItemParser.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/MapsAppDelegate.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/StationAnnotation.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/StationParser.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/TestViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/Watafa.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/WeatherController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/main.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/FavouritesViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FavouritesViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/FirstViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/FirstViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/ItemInfoCellView.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemInfoCellView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/ItemParser.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/ItemParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/MapsAppDelegate.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/MapsAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/StationAnnotation.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationAnnotation.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/StationParser.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/StationParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/TestViewController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/Watafa.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/WeatherController.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/WeatherController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/main.o /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/TestViewController.xib
+r0
+
+CCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Classes/Watafa.xib
+r0
+
+CCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Favourites.xib
+r0
+
+CCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MainWindow.xib
+r0
+
+CCompileXIB /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/MapView.xib
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A1.png" A1.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A10.png" A10.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A11.png" A11.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A12.png" A12.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A13.png" A13.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A14.png" A14.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A15.png" A15.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A16.png" A16.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A2.png" A2.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A3.png" A3.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A4.png" A4.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A5.png" A5.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A7.png" A7.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A8.png" A8.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/A9.png" A9.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/button_grey_dark.png" ../../../../button_grey_dark.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/icon.png" ../../../../../Downloads/icon.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/icon2.png" ../../../../../Downloads/icon2.png
+r0
+
+CCopyPNGFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/icon3.png" ../../../../../Downloads/icon3.png
+r0
+
+CCopyPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Settings.plist" Settings.plist
+r0
+
+CCopyPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/StationViewSections.plist" StationViewSections.plist
+r0
+
+CCopyPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/WindDirections.plist" WindDirections.plist
+r0
+
+CCpResource "build/Debug-iphoneos/Orai keliuose.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Debug-iphoneos/Orai keliuose.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Debug-iphoneos/Orai keliuose.app/stations.xml" stations.xml
+r0
+
+CCreateUniversalBinary "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Orai keliuose" normal "armv6 armv7"
+r0
+
+CDataModelCompile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Weather.mom" /Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/Weather.xcdatamodel
+r0
+
+CGenerateDSYMFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app.dSYM" "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Orai keliuose"
+r0
+
+CLd "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv6/Orai keliuose" normal armv6
+r0
+
+CLd "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/maps.build/Debug-iphoneos/Maps.build/Objects-normal/armv7/Orai keliuose" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app/Info.plist" Maps-Info.plist
+r0
+
+CProcessPCH /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ajssvzgtrxshfydjvbdbmzgllilv/Maps_Prefix.pch.gch Maps_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-dwmzmenlsijxfadccswiadzhnqnh/Maps_Prefix.pch.gch Maps_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-eclbfzspztzhjkghqkotropfwvho/Maps_Prefix.pch.gch Maps_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-ezedcdroioaqtrfezjzwssfisubm/Maps_Prefix.pch.gch Maps_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-fyiouwwmuhiukwcdksseggaqewpp/Maps_Prefix.pch.gch Maps_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Qv/QvJclYjYEamDrcqgea9u4++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Maps_Prefix-gormkcvkjdvsfigqyiovptxawnzi/Maps_Prefix.pch.gch Maps_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/nvz/Desktop/iTO/lra-app/iphone-app/maps/build/Debug-iphoneos/Orai keliuose.app"
+r0
+
